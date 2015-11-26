@@ -10,7 +10,7 @@ app = Proc.new do |env|
    [<<RSS
 <rss version="2.0">
 <channel>
-    <title>FeriadosFeed</title>
+    <title>FeriaFeed</title>
     <link>http://feriadosargentina.com/</link>
     <description>Feriados de Argentina</description>
     <item>
